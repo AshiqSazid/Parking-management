@@ -1,0 +1,19 @@
+**Admin Login Details** 
+
+Admin:
+Email	: admin@gmail.com
+Password: Password@123
+
+Manager:
+Email   : manager@gmail.com
+Password: Password@123
+
+Security:
+Email   : security@gmail.com
+Password: Password@123
+
+Parking Lot Attendant:
+Email   : attendant@gmail.com
+Password: Password@123
+
+
